@@ -28,7 +28,7 @@ payload:
   - DOMAIN,bat.bing.com
   - DOMAIN,beige.xboxservices.com
   - DOMAIN,bgappservices.microsoft.com
-  - DOMAIN,bing.com
+  - DOMAIN-SUFFIX,bing.com
   - DOMAIN,bingwallpaper.microsoft.com
   - DOMAIN,bingwallpaperimages.azureedge.net
   - DOMAIN,b-ring.msedge.net
@@ -212,19 +212,20 @@ payload:
   - DOMAIN,wdcp.microsoft.com
   - DOMAIN,web.vortex.data.microsoft.com
   - DOMAIN,win1910.ipv6.microsoft.com
-  - DOMAIN,www.bing.com
-  - DOMAIN,www.bingapis.com
-  - DOMAIN,www.microsoft.com
-  - DOMAIN,www.msftconnecttest.com
-  - DOMAIN,www.msn.com
-  - DOMAIN,www.onenote.com
-  - DOMAIN,www.xboxab.com
-  - DOMAIN,www2.bing.com
+  - DOMAIN-SUFFIX,www.bing.com
+  - DOMAIN-SUFFIX,www.bingapis.com
+  - DOMAIN-SUFFIX,www.microsoft.com
+  - DOMAIN-SUFFIX,www.msftconnecttest.com
+  - DOMAIN-SUFFIX,www.msn.com
+  - DOMAIN-SUFFIX,www.onenote.com
+  - DOMAIN-SUFFIX,www.xboxab.com
+  - DOMAIN-SUFFIX,www2.bing.com
   - DOMAIN,xblmessaging.xboxlive.com
-  - DOMAIN,xboxlive.com
+  - DOMAIN-SUFFIX,xboxlive.com
   - DOMAIN,xccs.xboxlive.com
   - DOMAIN,xhome.gssv-play-prod.xboxlive.com
   - DOMAIN,xip-registration.xboxlive.com
   - DOMAIN,xnotify.xboxlive.com
   - DOMAIN,xpaywalletcdn.azureedge.net
   - DOMAIN,xsts.auth.xboxlive.com
+  - DOMAIN-SUFFIX,xbox.com
