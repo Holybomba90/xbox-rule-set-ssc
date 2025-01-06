@@ -221,7 +221,7 @@ payload:
   - DOMAIN-SUFFIX,www.xboxab.com
   - DOMAIN-SUFFIX,www2.bing.com
   - DOMAIN,xblmessaging.xboxlive.com
-  - DOMAIN-SUFFIX,xboxlive.com
+#  - DOMAIN-SUFFIX,xboxlive.com
   - DOMAIN,xccs.xboxlive.com
   - DOMAIN,xhome.gssv-play-prod.xboxlive.com
   - DOMAIN,xip-registration.xboxlive.com
