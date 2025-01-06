@@ -22,7 +22,7 @@ payload:
   - DOMAIN,array621.prod.do.dsp.mp.microsoft.com
   - DOMAIN,assets.activity.windows.com
   - DOMAIN,assets.msn.com
-  - DOMAIN,assets1.xboxlive.com
+#  - DOMAIN,assets1.xboxlive.com
   - DOMAIN,avty.xboxlive.com
   - DOMAIN,ax-ring.msedge.net
   - DOMAIN,bat.bing.com
